@@ -1,3 +1,9 @@
+/**
+ * @author Aiden Vanlandingham
+ * Date create: 2/18/26
+ * description: a welcome message that prints out welcome
+ */
+
 public class welcome
 {
 public static void main (String args[])
